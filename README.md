@@ -8,7 +8,7 @@ The user can interact with it through an input message.
 
 ## PROJECT 2 : Data Classification Using ML
 
-This project implements a supervised machine learning pipeline to classify iris flowers into three species using four measurements. It covers the complete workflow: data loading → exploration → splitting → training → evaluation → visualisation.
+My project implements a supervised machine learning pipeline to classify iris flowers into three species using four measurements. It covers the complete workflow: data loading → exploration → splitting → training → evaluation → visualisation.
 
 ## Results
 
